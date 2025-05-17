@@ -26,7 +26,7 @@ Frontend : HTML, CSS, JS
 
 Backend : Flask
 
-Storage: CSV
+Dataset: CSV
 
 
 
