@@ -2,6 +2,5 @@ flask
 flask-cors
 gunicorn
 pandas
-os
 numpy
 datetime
